@@ -1,3 +1,3 @@
-# Lama Dev Chat App Starter template
+# Cat Chat React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple chat application made with React working in Vite with HMR and some ESLint rules.
